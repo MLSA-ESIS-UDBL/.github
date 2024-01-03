@@ -1,5 +1,5 @@
-![Open Source at MLSA ESIS-UDBL](../images/mlsa-gif_logo.gif)
-
+![Open Source at MLSA ESIS-UDBL](https://github.com/MLSA-ESIS-UDBL/.github/blob/main/images/mlsa-gif_logo.gif)
+  
 ## About Us
 
 Explore our showcase of diverse projects, each demonstrating the unique skills and collaborative spirit of our community.
