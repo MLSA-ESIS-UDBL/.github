@@ -1,12 +1,8 @@
-# Microsoft Learn Student Ambassadors (MLSA ESIS-UDBL)
-
-Microsoft Learn Student Ambassadors is a Microsoft program that helps students increase their knowledge and skills to share that with other students and their communities on their university campus or volunteering with an elementary school STEM class. We are based in the Democratic Republic of Congo, in the city of Lubumbashi, at the Université DON BOSCO (UDBL).
-
 ![Open Source at MLSA ESIS-UDBL](https://github.com/MLSA-ESIS-UDBL/.github/blob/main/images/mlsa-gif_logo.gif)
   
 ## About Us
 
-Explore our showcase of diverse projects, each demonstrating our community's unique skills and collaborative spirit.
+Explore our showcase of diverse projects, each demonstrating the unique skills and collaborative spirit of our community.
 
 ## Contact
 
