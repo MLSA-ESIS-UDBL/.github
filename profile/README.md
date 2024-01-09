@@ -6,7 +6,7 @@ Microsoft Learn Student Ambassadors is a Microsoft program that helps students i
   
 ## About Us
 
-Explore our showcase of diverse projects, each demonstrating our community's unique skills and collaborative spirit.
+Explore our showcase of diverse projects, each demonstrating the unique skills and collaborative spirit of our community.
 
 ## Contact
 
